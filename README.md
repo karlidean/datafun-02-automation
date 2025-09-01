@@ -9,3 +9,5 @@ Data Analytics Fundamentals - week 2 project
 ## Copied contents from .gitignore in Dr. Case's course repo
 # Step 5: Added requirements.txt
 ## Copied contents from requirements.txt in Dr. Case's course repo
+# Step 6: Added .venv
+## I had forgotten to do this in my prior submission!
