@@ -11,3 +11,9 @@ Data Analytics Fundamentals - week 2 project
 ## Copied contents from requirements.txt in Dr. Case's course repo
 # Step 6: Added .venv
 ## I had forgotten to do this in my prior submission!
+# Project Initialization / Repeatable Workflow
+## Pulled from Git before changes
+## Activated .venv
+## Installed Dependencies
+## Did not use Jupyter notebooks, they are not necessary here!
+## Git- add, commit, push to repo on GitHub
