@@ -26,3 +26,6 @@ Later, I find this is because the project setup python turns into the dirbot.
 ## I completed all TODO's and was able to test the code.
 The screenshot shown is after I tested running it in a new terminal!
 ## I committed the above pieces into Git.
+Other changes since my first submission:
+1. added `.gitkeep` files to each of the folders using my script, which caused me to alter using the mkdir to doing `ensure_dir_tracked`
+2. This made git see my folders and allowed me to push them to my online Repo.
