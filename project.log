@@ -351,3 +351,193 @@ Mean Satisfaction Score:    4.80
 2025-09-04 18:29:44.389 | INFO     | __main__:main:248 - # Completed execution of main()
 2025-09-04 18:29:44 | INFO | __main__:249 | #####################################
 2025-09-04 18:29:44.390 | INFO     | __main__:main:249 - #####################################
+2025-09-10 17:15:32 | INFO | utils_dean:47 | Logger loaded.
+2025-09-10 17:15:32 | INFO | __main__:37 | Logger loaded.
+2025-09-10 17:15:32.387 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-09-10 17:15:32 | INFO | __main__:227 | #####################################
+2025-09-10 17:15:32.388 | INFO     | __main__:main:227 - #####################################
+2025-09-10 17:15:32 | INFO | __main__:228 | # Starting execution of main()
+2025-09-10 17:15:32.389 | INFO     | __main__:main:228 - # Starting execution of main()
+2025-09-10 17:15:32 | INFO | __main__:229 | #####################################
+
+2025-09-10 17:15:32.389 | INFO     | __main__:main:229 - #####################################
+
+2025-09-10 17:15:32 | INFO | __main__:231 | Byline: 
+**********************************************************
+Wizard Analytics — Project Header
+**********************************************************
+Author:                     Karli Dean
+Motto:                      Every little thing we do is magic.
+Years Active:               5
+Our Headquarters:           St. Louis, Missouri
+Number of Our Locations:    5
+All of Our Locations:       ['Seattle, Washington', 'Denver, Colorado', 'St. Louis, Missouri', 'Jacksonville, Florida', 'Brooklyn, New York']
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Are We Hiring?:             False
+Number of Team Members:     25
+Number of our Services:     3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-10 17:15:32.390 | INFO     | __main__:main:231 - Byline: 
+**********************************************************
+Wizard Analytics — Project Header
+**********************************************************
+Author:                     Karli Dean
+Motto:                      Every little thing we do is magic.
+Years Active:               5
+Our Headquarters:           St. Louis, Missouri
+Number of Our Locations:    5
+All of Our Locations:       ['Seattle, Washington', 'Denver, Colorado', 'St. Louis, Missouri', 'Jacksonville, Florida', 'Brooklyn, New York']
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Are We Hiring?:             False
+Number of Team Members:     25
+Number of our Services:     3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-10 17:15:32 | INFO | __main__:73 | FUNCTION: create_folders_for_range()
+2025-09-10 17:15:32.391 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-09-10 17:15:32 | INFO | __main__:74 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-10 17:15:32.392 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-10 17:17:18 | INFO | utils_dean:47 | Logger loaded.
+2025-09-10 17:17:18 | INFO | __main__:37 | Logger loaded.
+2025-09-10 17:17:18.493 | INFO     | __main__:<module>:37 - Logger loaded.
+2025-09-10 17:17:18 | INFO | __main__:230 | #####################################
+2025-09-10 17:17:18.494 | INFO     | __main__:main:230 - #####################################
+2025-09-10 17:17:18 | INFO | __main__:231 | # Starting execution of main()
+2025-09-10 17:17:18.495 | INFO     | __main__:main:231 - # Starting execution of main()
+2025-09-10 17:17:18 | INFO | __main__:232 | #####################################
+
+2025-09-10 17:17:18.496 | INFO     | __main__:main:232 - #####################################
+
+2025-09-10 17:17:18 | INFO | __main__:234 | Byline: 
+**********************************************************
+Wizard Analytics — Project Header
+**********************************************************
+Author:                     Karli Dean
+Motto:                      Every little thing we do is magic.
+Years Active:               5
+Our Headquarters:           St. Louis, Missouri
+Number of Our Locations:    5
+All of Our Locations:       ['Seattle, Washington', 'Denver, Colorado', 'St. Louis, Missouri', 'Jacksonville, Florida', 'Brooklyn, New York']
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Are We Hiring?:             False
+Number of Team Members:     25
+Number of our Services:     3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-10 17:17:18.496 | INFO     | __main__:main:234 - Byline: 
+**********************************************************
+Wizard Analytics — Project Header
+**********************************************************
+Author:                     Karli Dean
+Motto:                      Every little thing we do is magic.
+Years Active:               5
+Our Headquarters:           St. Louis, Missouri
+Number of Our Locations:    5
+All of Our Locations:       ['Seattle, Washington', 'Denver, Colorado', 'St. Louis, Missouri', 'Jacksonville, Florida', 'Brooklyn, New York']
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Are We Hiring?:             False
+Number of Team Members:     25
+Number of our Services:     3
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-10 17:17:18 | INFO | __main__:81 | FUNCTION: create_folders_for_range()
+2025-09-10 17:17:18.498 | INFO     | __main__:create_folders_for_range:81 - FUNCTION: create_folders_for_range()
+2025-09-10 17:17:18 | INFO | __main__:82 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-10 17:17:18.499 | INFO     | __main__:create_folders_for_range:82 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-10 17:17:18 | INFO | __main__:87 | Created folder: C:\Repos\datafun-02-automation\2020
+2025-09-10 17:17:18.502 | INFO     | __main__:create_folders_for_range:87 - Created folder: C:\Repos\datafun-02-automation\2020
+2025-09-10 17:17:18 | INFO | __main__:87 | Created folder: C:\Repos\datafun-02-automation\2021
+2025-09-10 17:17:18.506 | INFO     | __main__:create_folders_for_range:87 - Created folder: C:\Repos\datafun-02-automation\2021
+2025-09-10 17:17:18 | INFO | __main__:87 | Created folder: C:\Repos\datafun-02-automation\2022
+2025-09-10 17:17:18.509 | INFO     | __main__:create_folders_for_range:87 - Created folder: C:\Repos\datafun-02-automation\2022
+2025-09-10 17:17:18 | INFO | __main__:87 | Created folder: C:\Repos\datafun-02-automation\2023
+2025-09-10 17:17:18.511 | INFO     | __main__:create_folders_for_range:87 - Created folder: C:\Repos\datafun-02-automation\2023
+2025-09-10 17:17:18 | INFO | __main__:113 | FUNCTION: create_folders_from_list()
+2025-09-10 17:17:18.512 | INFO     | __main__:create_folders_from_list:113 - FUNCTION: create_folders_from_list()
+2025-09-10 17:17:18 | INFO | __main__:114 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-10 17:17:18.513 | INFO     | __main__:create_folders_from_list:114 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-10 17:17:18 | INFO | __main__:119 | Created folder: C:\Repos\datafun-02-automation\data-csv
+2025-09-10 17:17:18.515 | INFO     | __main__:create_folders_from_list:119 - Created folder: C:\Repos\datafun-02-automation\data-csv
+2025-09-10 17:17:18 | INFO | __main__:119 | Created folder: C:\Repos\datafun-02-automation\data-excel
+2025-09-10 17:17:18.517 | INFO     | __main__:create_folders_from_list:119 - Created folder: C:\Repos\datafun-02-automation\data-excel
+2025-09-10 17:17:18 | INFO | __main__:119 | Created folder: C:\Repos\datafun-02-automation\data-json
+2025-09-10 17:17:18.521 | INFO     | __main__:create_folders_from_list:119 - Created folder: C:\Repos\datafun-02-automation\data-json
+2025-09-10 17:17:18 | INFO | __main__:144 | FUNCTION: create_prefixed_folders()
+2025-09-10 17:17:18.522 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:144 - FUNCTION: create_prefixed_folders()
+2025-09-10 17:17:18 | INFO | __main__:145 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-10 17:17:18.522 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:145 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-10 17:17:18 | INFO | __main__:151 | Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-09-10 17:17:18.524 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:151 - Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-09-10 17:17:18 | INFO | __main__:151 | Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-09-10 17:17:18.525 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:151 - Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-09-10 17:17:18 | INFO | __main__:151 | Created folder: C:\Repos\datafun-02-automation\output-json
+2025-09-10 17:17:18.527 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:151 - Created folder: C:\Repos\datafun-02-automation\output-json
+2025-09-10 17:17:18 | INFO | __main__:171 | FUNCTION: create_folders_periodically()
+2025-09-10 17:17:18.528 | INFO     | __main__:create_folders_periodically:171 - FUNCTION: create_folders_periodically()
+2025-09-10 17:17:18 | INFO | __main__:172 | PARAMETER: duration_seconds = 5
+2025-09-10 17:17:18.528 | INFO     | __main__:create_folders_periodically:172 - PARAMETER: duration_seconds = 5
+2025-09-10 17:17:18 | INFO | __main__:180 | Created folder: C:\Repos\datafun-02-automation\periodic-01
+2025-09-10 17:17:18.529 | INFO     | __main__:create_folders_periodically:180 - Created folder: C:\Repos\datafun-02-automation\periodic-01
+2025-09-10 17:17:18 | INFO | __main__:183 | Waiting 5 seconds before next folder...
+2025-09-10 17:17:18.529 | INFO     | __main__:create_folders_periodically:183 - Waiting 5 seconds before next folder...
+2025-09-10 17:17:23 | INFO | __main__:180 | Created folder: C:\Repos\datafun-02-automation\periodic-02
+2025-09-10 17:17:23.531 | INFO     | __main__:create_folders_periodically:180 - Created folder: C:\Repos\datafun-02-automation\periodic-02
+2025-09-10 17:17:23 | INFO | __main__:183 | Waiting 5 seconds before next folder...
+2025-09-10 17:17:23.532 | INFO     | __main__:create_folders_periodically:183 - Waiting 5 seconds before next folder...
+2025-09-10 17:17:28 | INFO | __main__:180 | Created folder: C:\Repos\datafun-02-automation\periodic-03
+2025-09-10 17:17:28.535 | INFO     | __main__:create_folders_periodically:180 - Created folder: C:\Repos\datafun-02-automation\periodic-03
+2025-09-10 17:17:28 | INFO | __main__:207 | FUNCTION: create_standardized_folders()
+2025-09-10 17:17:28.536 | INFO     | __main__:create_standardized_folders:207 - FUNCTION: create_standardized_folders()
+2025-09-10 17:17:28 | INFO | __main__:208 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-10 17:17:28.537 | INFO     | __main__:create_standardized_folders:208 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-10 17:17:28 | INFO | __main__:218 | Created folder: C:\Repos\datafun-02-automation\northamerica (from 'North America')
+2025-09-10 17:17:28.539 | INFO     | __main__:create_standardized_folders:218 - Created folder: C:\Repos\datafun-02-automation\northamerica (from 'North America')
+2025-09-10 17:17:28 | INFO | __main__:218 | Created folder: C:\Repos\datafun-02-automation\southamerica (from 'South America')
+2025-09-10 17:17:28.542 | INFO     | __main__:create_standardized_folders:218 - Created folder: C:\Repos\datafun-02-automation\southamerica (from 'South America')
+2025-09-10 17:17:28 | INFO | __main__:218 | Created folder: C:\Repos\datafun-02-automation\europe (from 'Europe')
+2025-09-10 17:17:28.546 | INFO     | __main__:create_standardized_folders:218 - Created folder: C:\Repos\datafun-02-automation\europe (from 'Europe')
+2025-09-10 17:17:28 | INFO | __main__:218 | Created folder: C:\Repos\datafun-02-automation\asia (from 'Asia')
+2025-09-10 17:17:28.549 | INFO     | __main__:create_standardized_folders:218 - Created folder: C:\Repos\datafun-02-automation\asia (from 'Asia')
+2025-09-10 17:17:28 | INFO | __main__:218 | Created folder: C:\Repos\datafun-02-automation\africa (from 'Africa')
+2025-09-10 17:17:28.552 | INFO     | __main__:create_standardized_folders:218 - Created folder: C:\Repos\datafun-02-automation\africa (from 'Africa')
+2025-09-10 17:17:28 | INFO | __main__:218 | Created folder: C:\Repos\datafun-02-automation\oceania (from 'Oceania')
+2025-09-10 17:17:28.556 | INFO     | __main__:create_standardized_folders:218 - Created folder: C:\Repos\datafun-02-automation\oceania (from 'Oceania')
+2025-09-10 17:17:28 | INFO | __main__:218 | Created folder: C:\Repos\datafun-02-automation\middleeast (from 'Middle East')
+2025-09-10 17:17:28.559 | INFO     | __main__:create_standardized_folders:218 - Created folder: C:\Repos\datafun-02-automation\middleeast (from 'Middle East')
+2025-09-10 17:17:28 | INFO | __main__:255 | 
+#####################################
+2025-09-10 17:17:28.560 | INFO     | __main__:main:255 - 
+#####################################
+2025-09-10 17:17:28 | INFO | __main__:256 | # Completed execution of main()
+2025-09-10 17:17:28.561 | INFO     | __main__:main:256 - # Completed execution of main()
+2025-09-10 17:17:28 | INFO | __main__:257 | #####################################
+2025-09-10 17:17:28.562 | INFO     | __main__:main:257 - #####################################

@@ -53,6 +53,14 @@ REGIONS = [
     "Middle East"
 ]
 
+from pathlib import Path
+
+def ensure_dir_tracked(path: Path) -> None:
+    """Create dir (if needed) and add a .gitkeep so Git can track it."""
+    path.mkdir(parents=True, exist_ok=True)
+    (path / ".gitkeep").touch(exist_ok=True)
+
+
 #####################################
 # Define Function 1. For item in Range: 
 # Create a function to generate folders for a given range (e.g., years).
@@ -75,7 +83,7 @@ def create_folders_for_range(start_year: int, end_year: int) -> None:
 
     for year in range(start_year, end_year + 1):
         year_path = ROOT_DIR / str(year)
-        year_path.mkdir(exist_ok=True)
+        ensure_dir_tracked(year_path)
         logger.info(f"Created folder: {year_path}")
 
     # Example starter structure:
@@ -107,7 +115,7 @@ def create_folders_from_list(folder_list: list) -> None:
 
     for name in folder_list:
         path = ROOT_DIR / name
-        path.mkdir(exist_ok=True)
+        ensure_dir_tracked(path)
         logger.info(f"Created folder: {path}")
 
 
@@ -139,7 +147,7 @@ def create_prefixed_folders_using_list_comprehension(folder_list: list, prefix: 
     prefixed = [f"{prefix}{name}" for name in folder_list]
     for name in prefixed:
         path = ROOT_DIR / name
-        path.mkdir(exist_ok=True)
+        ensure_dir_tracked(path)
         logger.info(f"Created folder: {path}")
 
     pass
@@ -168,7 +176,7 @@ def create_folders_periodically(duration_seconds: int) -> None:
     while count < total:
         folder_name = f"periodic-{count+1:02d}"
         path = ROOT_DIR / folder_name
-        path.mkdir(exist_ok=True)
+        ensure_dir_tracked(path)
         logger.info(f"Created folder: {path}")
         count += 1
         if count < total:
@@ -206,7 +214,7 @@ def create_standardized_folders(folder_list: list, to_lowercase: bool = False, r
         if remove_spaces:
             name = name.replace(" ", "")
         path = ROOT_DIR / name
-        path.mkdir(exist_ok=True)
+        ensure_dir_tracked(path)
         logger.info(f"Created folder: {path} (from '{original}')")
 
 
